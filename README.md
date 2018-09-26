@@ -4,4 +4,4 @@ This contains the files used in lecture zero of the Machine Learning course of 2
 
 Authors:  
 Ricardo Cruz, Eduardo Castro, João Ribeiro Pinto.  
-INESC TEC and FEUP, University of Porto.
+INESC TEC, FCUP & FEUP, University of Porto.
