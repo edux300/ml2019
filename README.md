@@ -9,7 +9,7 @@ To introduce Python and several tools of numpy, pandas, matplotlib, scikit-learn
 ##### Requirements Installation
 Windows or Mac:  
 install Anaconda  
-https://www.continuum.io/downloads  (download python3)
+https://www.anaconda.com/download/ (download python3)
 
 Ubuntu:  
 sudo apt install python3-pip  
