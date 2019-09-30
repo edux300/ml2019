@@ -1,4 +1,4 @@
-### Machine Learning 2018 - Lecture Zero
+### Machine Learning 2019 - Lecture Zero
 
 ##### Summary
 This contains the files used in lecture zero of the Machine Learning course of 2018.
@@ -16,5 +16,5 @@ sudo apt install python3-pip
 pip3 install --user --upgrade scikit-learn pandas scikit-image matplotlib keras tensorflow
 
 ##### Authors:  
-Ricardo Cruz, Eduardo Castro, João Ribeiro Pinto.  
+Ricardo Cruz, Eduardo Castro, João Ribeiro Pinto.
 INESC TEC, FCUP & FEUP, University of Porto.
